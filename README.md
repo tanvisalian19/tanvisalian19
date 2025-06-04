@@ -24,21 +24,8 @@
 ### 📈 Data Analyst Intern — Dezignolics  
 *Feb 2021 – Mar 2021*  
 - Developed automated reporting pipelines in Python  
-- Built dashboards with **SQL** and **MySQL**, streamlining product insights  
-
----
-
-## 🔬 Key Projects
-
-- **Mayo Clinic: Patient Sentiment Analysis**  
-  Analyzed 10K+ survey responses; improved satisfaction scores by 12% with Tableau dashboards  
-
-- **NYPD Crime Data Analysis**  
-  Forecasted arrests using ARIMA & logistic regression; improved response efficiency by 15%  
-
-- **Women's Shelter Database**  
-  Built a scalable MySQL + PowerApps system; reduced data entry errors by 30%  
-
+- Built dashboards with **SQL** and **MySQL**, streamlining product insights
+  
 ---
 
 ## 🛠 Skills & Tools

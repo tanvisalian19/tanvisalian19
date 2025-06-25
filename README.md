@@ -3,7 +3,7 @@
 🎓 MS in Information Systems at Syracuse University (GPA: 3.9/4.0)  
 💡 Data Analyst | BI Developer | Digital Creator  
 🌍 Based in New York, USA | Originally from Mumbai, India  
-📬 [Email Me](mailto:saliantanvi19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanvisalian) | [GitHub](https://github.com/tanvisalian19/PortfolioProjects)
+📬 [Email Me](mailto:saliantanvi19@gmail.com) | [LinkedIn](https://www.linkedin.com/in/tanvisalian) | [GitHub](https://github.com/tanvisalian19/PortfolioProjects) | [Digital Portfolio](https://www.notion.so/TANVI-SALIAN-21df3585d0c080c180eddb340d828085?source=copy_link)
 
 ---
 
